@@ -30,6 +30,7 @@ export default function Skills() {
     skills: [
       "Node.js",
       "MongoDB",
+      "Express.js",
       "MySQL",
       "Firebase",
       "REST APIs",
