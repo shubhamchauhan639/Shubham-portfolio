@@ -43,7 +43,7 @@ const projects: Project[] = [
       "Netflix-inspired streaming application with Firebase authentication, TMDb integration, AI-powered movie recommendations, and Redux state management.",
     skills: ["React", "Firebase", "Redux Toolkit", "OpenAI API", "TMDb API"],
     image: "/projects/netflix-ai.jpg",
-    link: "https://github.com/shubhamchauhan639",
+    link: "https://netflix-clone-kohl-ten-96.vercel.app/",
     highlight: false,
   },
   
