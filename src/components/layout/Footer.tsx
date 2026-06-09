@@ -31,7 +31,7 @@ export default function Footer() {
             <GithubIcon size={16} />
           </a>
           <a
-            href="https://linkedin.com/in/shubham"
+            href="https://www.linkedin.com/in/shubham-chauhan-aaa832397/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full border border-border-card bg-bg-card hover:text-brand-indigo hover:border-brand-indigo/35 transition-smooth text-text-body"
@@ -41,7 +41,7 @@ export default function Footer() {
             <LinkedinIcon size={16} />
           </a>
           <a
-            href="mailto:shubham@email.com"
+            href="mailto:shubhamchauhan12196@gmail.com"
             className="p-2 rounded-full border border-border-card bg-bg-card hover:text-brand-indigo hover:border-brand-indigo/35 transition-smooth text-text-body"
             aria-label="Email Contact"
             id="footer-email-link"
