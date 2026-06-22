@@ -55,7 +55,7 @@ const projects: Project[] = [
       "Modern music learning platform with interactive course pages, featured content sections, testimonials, and a clean responsive UI.",
     skills: ["Next.js", "TypeScript", "Tailwind CSS"],
     image: "/projects/music-academy.jpg",
-    link: "https://your-music-academy-link.vercel.app",
+    link: "https://music-app-74ne.vercel.app/",
     highlight: false,
   },
 
