@@ -16,16 +16,17 @@ interface Project {
 }
 
 const projects: Project[] = [
-  {
-    title: "Feedbackly",
-    tag: "Full Stack SaaS",
+    {
+    title: "DevLog AI",
+    tag: "Developer Productivity",
     description:
-      "Anonymous feedback platform built with Next.js. Features user authentication, email verification, secure message handling, AI-generated message suggestions, and a modern responsive UI.",
-    skills: ["Next.js", "TypeScript", "MongoDB", "NextAuth", "Tailwind CSS"],
-    image: "/projects/feedbackly.jpg",
-    link: "https://your-feedbackly-link.vercel.app",
+      "Developer productivity dashboard with GitHub-style streak tracking, AI-powered insights, goal management, analytics, and activity history.",
+    skills: ["Next.js 15", "TypeScript", "Firestore", "OpenAI API", "Tailwind CSS"],
+    image: "/projects/devlog-ai.jpg",
+    link: "https://dev-log-cyan.vercel.app/",
     highlight: true,
   },
+
   {
     title: "Streamly",
     tag: "YouTube inspired Platform",
@@ -57,16 +58,7 @@ const projects: Project[] = [
     link: "https://your-music-academy-link.vercel.app",
     highlight: false,
   },
-  {
-    title: "DevLog AI",
-    tag: "Developer Productivity",
-    description:
-      "Developer productivity dashboard with GitHub-style streak tracking, AI-powered insights, goal management, analytics, and activity history.",
-    skills: ["Next.js 15", "TypeScript", "Firestore", "OpenAI API", "Tailwind CSS"],
-    image: "/projects/devlog-ai.jpg",
-    link: "https://devlog.vercel.app",
-    highlight: true,
-  },
+
 ];
 export default function Projects() {
   const containerVariants: Variants = {
