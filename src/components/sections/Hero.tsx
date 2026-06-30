@@ -126,7 +126,7 @@ export default function Hero() {
             <ArrowDown size={16} />
           </a>
           <a
-            href="/ShubhamResume.pdf"
+            href="/ShubhamResumePDF.pdf"
             download="Shubham Resume.pdf"
             className="flex items-center gap-2 text-sm font-medium px-6 py-3 rounded-lg border border-border-card text-text-body hover:text-brand-indigo hover:border-brand-indigo/50 transition-smooth bg-bg-card shadow-sm cursor-pointer"
             id="hero-download-cv-btn"
