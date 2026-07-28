@@ -26,6 +26,16 @@ const projects: Project[] = [
     link: "https://dev-log-cyan.vercel.app/",
     highlight: true,
   },
+   {
+    title: "PlayGrid",
+    tag: "Collaborative Code Playground",
+    description:
+      "Real-time collaborative code playground for writing, running, and sharing code snippets across multiple languages directly in the browser.",
+    skills: ["Next.js 14", "TypeScript", "Sandpack", "Supabase", "Tailwind CSS"],
+    image: "/projects/image.png",
+    link: "https://play-grid-hazel.vercel.app/",
+    highlight: true,
+},
 
   {
     title: "Streamly",
